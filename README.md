@@ -1,2 +1,1 @@
 # Mobile_Shop_Manegment_System
-Mobile_Shop_Manegment_System
